@@ -21,10 +21,7 @@ The website was selected because it is publicly accessible and suitable for pass
 - WHOIS Lookup
 - DNS Enumeration
 - Website Technology Identification
-- HTTP Security Headers Analysis
-- Robots.txt Analysis
-- Sitemap Analysis
-- Reconnaissance Report
+- HTTP Security Headers Analysis<img width="1366" height="768" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/75a6e4c5-82e7-4be1-a5a6-9aa813bf0ae6" />
 
 ## Tools Used
 
