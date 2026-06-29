@@ -1,1 +1,99 @@
 
+# Research Notes
+
+## Reconnaissance
+
+Reconnaissance is the first phase of Ethical Hacking where publicly available information is collected about a target.
+
+It helps security professionals understand the target before performing any security assessment.
+
+
+## Passive Reconnaissance
+
+Passive reconnaissance means collecting information without directly interacting with the target server.
+
+Examples:
+
+- WHOIS Lookup
+- DNS Lookup
+- Google Search
+- BuiltWith
+- Wappalyzer
+
+## Active Reconnaissance
+
+Active reconnaissance involves interacting with the target.
+
+Examples:
+
+- Port Scanning
+- Network Scanning
+- Vulnerability Scanning
+
+
+## WHOIS
+
+WHOIS provides:
+
+- Domain Name
+- Registrar
+- Registration Date
+- Expiry Date
+- Name Servers
+- Domain Status
+
+## DNS Records
+
+### A Record
+
+Maps a domain to an IP address.
+
+### MX Record
+
+Specifies mail servers.
+
+### NS Record
+
+Lists authoritative name servers.
+
+### TXT Record
+
+Contains verification and security information.
+
+## Website Technologies
+
+Common technologies include:
+
+- Apache
+- Nginx
+- WordPress
+- PHP
+- React
+- Bootstrap
+- Cloudflare
+
+## HTTP Security Headers
+
+Security headers improve website protection.
+
+Important headers include:
+
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+- Strict-Transport-Security
+- Referrer-Policy
+
+## Robots.txt
+
+robots.txt tells search engines which pages may or may not be crawled.
+
+## Sitemap.xml
+
+Sitemap.xml lists important pages of the website and helps search engines index them efficiently.
+
+## Ethical Considerations
+
+Only passive reconnaissance should be performed.
+
+No exploitation, scanning, or unauthorized access should be attempted.
