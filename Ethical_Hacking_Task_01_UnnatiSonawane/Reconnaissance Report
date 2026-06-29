@@ -1,1 +1,78 @@
 
+Ethical Hacking Task 01
+Information Gathering & Reconnaissance
+
+1. Objective
+
+2. Target Information
+
+Website Name : nami matcha
+
+URL : https://namimatcha.com
+
+Reason for Selection
+Its a very interesting website shows wide collection of matcha and drinks. Website and brand is influencer owned and creatively marketed.
+
+3. WHOIS Lookup
+
+Domain:
+namimatcha.com
+Registered On:
+2023-04-18
+Expires On:
+2027-04-18
+Updated On:
+2026-03-19
+Status:
+client transfer prohibited
+
+4. DNS Enumeration
+
+ss
+
+5. Website Technologies
+
+Web Server
+
+CMS
+
+Programming Language
+
+JavaScript Framework
+
+CDN
+
+
+6. HTTP Security Headers
+
+Create table
+
+Header | Present | Purpose
+
+Content-Security-Policy
+
+X-Frame-Options
+
+X-Content-Type-Options
+
+Strict-Transport-Security
+
+Referrer-Policy
+
+
+7. Robots.txt
+
+Available?
+
+Information Found
+
+
+8. Sitemap.xml
+
+Available?
+
+Information Found
+
+Screenshot
+
+
